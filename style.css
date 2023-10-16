@@ -1,0 +1,36 @@
+h2, p, table, label{
+    font-family: garamond, arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-weight: bold;
+    background-color: yellowgreen;
+}
+
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.genap{
+    background-color: lightgray;
+}
+
+.kode{
+    text-decoration: underline;
+    color: rgb(189, 3, 3);
+}
+
+.pemweb, #pemweb{
+    text-decoration: underline;
+    color: green;
+}
+
+
+span, .bold{
+    color: red;
+}
+
+.bold{
+    font-weight: bold;
+}
